@@ -70,6 +70,7 @@ A curated list of awesome resources for healthcare design, focusing on UI/UX, de
 
 - [Vitaly Friedman](https://www.linkedin.com/in/vitalyfriedman/?originalSubdomain=be) - Web design expert and co-founder of Smashing Magazine.
 - [Robert Floyd](https://www.alloy.health/) - Founder of Alloy Health.
+- [Alloy Health Resource Library](https://www.alloy.health/resource-library) - Comprehensive collection of healthcare design and development resources.
 - [Gregory Schmidt](http://www.gregoryschmidt.ca/about) - Healthcare UX designer and YouTuber.
 
 ## Contribute
